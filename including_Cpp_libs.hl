@@ -1,0 +1,9 @@
+//including C++ libraries
+#include <iostream>
+__func__(integer,__HARD__)(){
+	integer O _
+	std::cout<<"Hello World!!"<<std::endl;//Using function of C++ Library
+	std::cin>>O;
+	std::cout<<O<<std::endl;
+	__(___)_
+}

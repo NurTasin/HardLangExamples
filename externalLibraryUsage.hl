@@ -1,0 +1,5 @@
+#include "/home/tasin/Desktop/llll/github/Hardlangexamples/externalLibrary.h"
+__func__(integer,__HARD__)(){
+	sayHello("Tasin")_
+	__(___)_
+}

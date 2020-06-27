@@ -1,0 +1,5 @@
+//HelloWorld
+__func__(integer,__HARD__)(){
+	__call__(__log__)("Hello World\n") _
+	__(___)_
+}

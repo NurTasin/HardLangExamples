@@ -1,0 +1,18 @@
+//Prime detector in HardLang
+__func__(boolean,isPrime)(integer number){
+	__call__(__log__)("%d\n",number)_
+	__call__(__loop__)(integer i=2,i<=(integer)sqrt(number),i++){
+		if(number%i==0){
+			__(False)_
+		}
+	}
+	__(True)_
+}
+__func__(integer,__HARD__)(){
+	if(__call__(isPrime)(101)){
+		__call__(__log__)("yes it is a prime\n")_
+	}else{
+		__call__(__log__)("no it is not a prime\n")_
+	}
+
+}
